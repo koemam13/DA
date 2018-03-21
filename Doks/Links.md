@@ -1,1 +1,1 @@
-[Diplay](https://www.adafruit.com/product/2276)
+[Display](https://www.adafruit.com/product/2276)
