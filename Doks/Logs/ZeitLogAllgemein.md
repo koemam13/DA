@@ -7,4 +7,5 @@ Datum|Beschreibung|Bemerkung|Zeit in Minuten
 07.03.2018|LaTeX Vortrag | Besprechung der nutzung von LaTeX|100
 14.03.2018|Bauteilauswahl Fortsetzung|Sensoren, Taster, LED matrix/Display auswahl  LED Martix nicht möglich da man keine einzelne LED ansteuern kann|150
 21.03.2018|Konzept ausarbeitung, Kostenvoranschlag, Bauteilauswahl fixierung|Konzept ausarbeitung für den Auftraggeber (Laufschrift oder nicht), Kostenvoranschlag berechnen (Bauteile, Sensoren usw.), Fixierung der Ausgewählten Bauteile sowie Software ideen|150
+04.04.2018|Konzept fertigstellung e-mail versandt | Konzept kontrollieren, überarbeiten und anschließenden versandt des Konzeptes and den Auftraggeber| 150
 
